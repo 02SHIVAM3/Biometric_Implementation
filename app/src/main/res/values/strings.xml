@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biometric Implementation</string>
+    <string name="biometric_authentication">Biometric Authentication</string>
+    <string name="status">Status</string>
+</resources>
